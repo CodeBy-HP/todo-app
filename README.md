@@ -35,10 +35,10 @@ Make sure you have the following installed on your local machine:
 
 ```sh
 # Clone the repository
-git clone https://github.com/CodeBy-HP/todo-app.git
+git clone https://github.com/CodeBy-HP/todo-app-react-redux.git
 
 # Navigate to the project directory
-cd todo-app
+cd todo-app-react-redux
 
 # Install dependencies
 npm install --force
@@ -46,4 +46,4 @@ npm install --force
 # Start the development server
 npm run dev
 ```
-***Open your browser and go to http://localhost:5173 to see the app.***
+
