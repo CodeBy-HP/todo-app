@@ -1,9 +1,9 @@
 [build]
   command = "npm install --force && npm run build"
-  publish = "build"
-
+  publish = "dist"  # Vite outputs to the `dist` directory by default
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+
