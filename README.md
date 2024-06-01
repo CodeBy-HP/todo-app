@@ -1,8 +1,49 @@
-# React + Vite
+Check out the project at https://todo-app-codebyhp.netlify.app.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Todo App
 
-Currently, two official plugins are available:
+A simple and intuitive Todo app built with React and Redux.
+![Screenshot (119)](https://github.com/CodeBy-HP/todo-app-react-redux/assets/145273554/afc1a232-b3ca-45cb-afee-92376fb21ea7)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks based on their completion status
+
+## Technologies Used
+
+- React
+- Redux
+- React-Redux
+- Vite
+- TailwindCSS
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed on your local machine:
+
+- [Node.js](https://nodejs.org/) (v14 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Installation
+
+```sh
+# Clone the repository
+git clone https://github.com/CodeBy-HP/todo-app.git
+
+# Navigate to the project directory
+cd todo-app
+
+# Install dependencies
+npm install --force
+
+# Start the development server
+npm run dev
+```
+***Open your browser and go to http://localhost:5173 to see the app.***
